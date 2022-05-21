@@ -1,2 +1,2 @@
-# Student-Management-System-LGMVIP-task-3
+# Student Management System
 I created a Student Management System
